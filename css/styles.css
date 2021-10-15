@@ -1,0 +1,15 @@
+body{
+  background-color: lavender;
+}
+hr{
+  border-style: dotted none none;
+  border-color: black;
+  border-width: 3px;
+  width: 5%;
+}
+h1{
+  color: indigo;
+}
+h3{
+  color: midnightblue;
+}
